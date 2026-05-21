@@ -1,4 +1,4 @@
-##G'day!
+## G'day!
 
 I'm Jack, I'm a person with a lot of project ideas, and super into startups. Until recently was completely non-technical, until I decided to enroll in a compsci degree last year...so I'm a newbie. 
 
